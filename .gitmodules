@@ -1,0 +1,9 @@
+[submodule "pack/plugins/start/vim-rails"]
+	path = pack/plugins/start/vim-rails
+	url = git@github.com:/tpope/vim-rails.git
+[submodule "pack/plugins/start/vim-sensible"]
+	path = pack/plugins/start/vim-sensible
+	url = git@github.com:/tpope/vim-sensible.git
+[submodule "pack/plugins/start/vim-northpole"]
+	path = pack/plugins/start/vim-northpole
+	url = https://github.com/Alvarocz/vim-northpole.git
